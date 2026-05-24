@@ -1,0 +1,16 @@
+# Node dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Python environments
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Environment secrets
+.env
+backend/.env
+
+# Large static 3D files (Optional, if you want to keep repo light)
+*.glb
+*.gltf
