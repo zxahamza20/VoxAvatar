@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <h1>🎭 AvatarAI — Real-Time AI Avatar Platform</h1>
@@ -594,3 +595,7 @@ MIT © 2026 — see [LICENSE](LICENSE) for details.
 <sub>Built with FastAPI · Next.js · MuseTalk V1.5 · Chatterbox · Whisper · Claude AI</sub>
 
 </div>
+=======
+# VoxAvatar
+The project bridges the text based outputs, inputs of a chatbot with a real human like avatar, which behaves and responds like a person essentially creating a virtual know it all human
+>>>>>>> f8f84853a8fec65c5b96a70fbc47ff6db7541d53
